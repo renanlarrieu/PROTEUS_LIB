@@ -8,12 +8,11 @@ void setup() {
   lcd.begin(16, 2);
   // Print a message to the LCD.
   lcd.setCursor(1,0);
-  lcd.print("www.TheEngineering");
+  lcd.print("Capacitacao IEEE");
   lcd.setCursor(4,1);
-  lcd.print("Projects.com");
+  lcd.print("2021");
 }
 
 void loop() {
   
 }
-
